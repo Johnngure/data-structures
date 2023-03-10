@@ -1,0 +1,11 @@
+class newNode():
+ def --init--(self,data)
+     self.key = data
+     self.right = None
+     self.left = None
+
+def inorder(temp):
+ if (not temp):
+  return
+
+  inorder (temp.key, end="")
