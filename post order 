@@ -32,7 +32,7 @@ def postOrder(root):
 # Driver code
 if __name__ == '__main__':
 	# Let us create following BST
-	#		 50
+	#	   50
 	#	 /	 \
 	#	 30	 70
 	#	 / \ / \
@@ -51,5 +51,3 @@ if __name__ == '__main__':
 
 	# Function call
 	postOrder(root)
-
-	#This code is contributed by japmeet01
